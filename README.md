@@ -1,4 +1,8 @@
 # parser
-1. cd ~/paser
-2. cmake .
-3. make
+
+Install:
+
+1. git clone https://github.com/romanhabibov/parser
+2. cd ~/paser
+3. cmake .
+4. make
